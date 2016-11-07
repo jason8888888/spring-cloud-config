@@ -1,0 +1,11 @@
+spring.profiles.active: dev-test-1
+from: dev-test-1
+---
+spring.profiles: dev-test-2
+from: dev-test-2
+---
+spring.profiles: dev-test-3
+from: dev-test-3
+---
+spring.profiles: dev-test-4
+from: dev-test-4
